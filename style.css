@@ -1,0 +1,51 @@
+p.enlaces{
+    background-color: darksalmon;
+}
+p.github{
+    background-color: darksalmon;
+}
+img.empresa2{
+    width: auto;
+    height: auto;
+    float: right;
+}
+img.marca{
+    width: auto;
+    height: auto;
+}
+img.empresa1{
+    width: auto;
+    height: auto;
+    float: left;
+}
+
+body.body{
+    background-color: darksalmon;
+}
+section.azulito{
+    background-color: darkturquoise;
+}
+section.blanco{
+    background-color: white;
+}
+p.blue{
+    color: blue;
+    border-bottom-color: blue;
+    border-top-color: blue;
+}
+p.red{
+    color: red;
+}
+p.verde{
+    color: green;
+}
+span.amarillo{
+    background-color: yellow;
+}
+section.green{
+    background-color: greenyellow;
+    color: blue;
+}
+ul.disc{
+    list-style-type: disc;
+}
